@@ -3,7 +3,7 @@
     "wake_word": "Ok Nea",
     "author": "Bruno Vale",
     "website": "https://www.neassistant.com/",
-    "model": "okay_nabu.tflite",
+    "model": "ok,_ne_a.tflite",
     "trained_languages": ["pt"],
     "version": 2,
     "micro": {
