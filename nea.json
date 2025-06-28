@@ -3,7 +3,7 @@
     "wake_word": "nea",
     "author": "Bruno Vale",
     "website": "https://www.neassistant.com/",
-    "model": "nea.tflite",
+    "model": "https://github.com/brunosparkleit/-Micro-Wake-Word-nea/blob/main/nea.tflite",
     "trained_languages": ["pt"],
     "version": 2,
     "micro": {
